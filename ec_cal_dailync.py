@@ -2,6 +2,9 @@
 contact: Hao Zhang (hao.zhang1@wsu.edu)
 date: 19/10/2025
     To calculate fluxes over Hn-1 site.
+
+update: 20/10/2025
+    test update.
 """
 # calculate 30min flux from 10hz nc file for INL site, change input and output directory in the main function, output calculated flux data saved in excel
 import netCDF4 as nc
